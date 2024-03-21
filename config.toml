@@ -1,0 +1,4 @@
+baseURL = 'https://10bitpodcast.com/'
+languageCode = 'en-us'
+title = '10 Bit Podcast'
+theme = 'ananke'
