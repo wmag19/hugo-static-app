@@ -1,1 +1,4 @@
 theme = 'ananke'
+baseURL = 'https://green-wave-06ae7e603.4.azurestaticapps.net/'
+languageCode = 'en-us'
+title = 'WM Test Site'
