@@ -27,11 +27,11 @@ theme = "m10c"
   [[params.social]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/gohugoio"
+    url = "https://github.com/wmag19"
   [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/gohugoio"
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/"
 
   # Default theme
   #[params.style]
