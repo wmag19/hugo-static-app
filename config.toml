@@ -3,35 +3,35 @@ languageCode = 'en-gb'
 title = 'WM Test site!'
 theme = "m10c"
 
-#[menu]
-#  [[menu.main]]
-#    identifier = "home"
-#    name = "Home"
-#    url = "/"
-#    weight = 1
-#  [[menu.main]]
-#    identifier = "tags"
-#    name = "Tags"
-#    url = "/tags/"
-#    weight = 2
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about/"
-#    weight = 3
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
 
-#[params]
-#  author = "John Doe"
-#  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-#  menu_item_separator = " - "
-#  [[params.social]]
-#    icon = "github"
-#    name = "Github"
-#    url = "https://github.com/gohugoio"
-#  [[params.social]]
-#    icon = "twitter"
-#    name = "Twitter"
-#    url = "https://twitter.com/gohugoio"
+[params]
+  author = "John Doe"
+  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/gohugoio"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/gohugoio"
 
   # Default theme
   #[params.style]
