@@ -1,6 +1,6 @@
 baseURL = 'https://wcfm.co.uk'
 languageCode = 'en-gb'
-title = 'WM Test site!'
+title = 'Will Maguire'
 theme = "m10c"
 
 [menu]
@@ -21,7 +21,7 @@ theme = "m10c"
     weight = 3
 
 [params]
-  author = "John Doe"
+  author = "Will Maguire"
   description = "Will Maguire's test site. Built using GitHub Actions and Hugo. Hosted on Azure Static Web Apps!"
   menu_item_separator = " - "
   [[params.social]]
